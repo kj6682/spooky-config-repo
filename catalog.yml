@@ -1,0 +1,4 @@
+message: you are connected to the catalog (master)
+features:
+  spooky:
+    action1:true

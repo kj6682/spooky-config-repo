@@ -1,2 +1,3 @@
 message: you are connected to the catalog (master)
-action1: true
+features:
+    action1: true

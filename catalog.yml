@@ -2,3 +2,9 @@ message: you are connected to the catalog (master)
 features:
     action1: false	
     action2: true
+spring:
+  application:
+    name: catalog
+  jackson:
+    serialization:
+      write_dates_as_timestamps: false

@@ -1,0 +1,7 @@
+account:
+  find: true
+  findAll: true
+  findByOwner: true
+  create: true
+  delete: true
+  transfer: true

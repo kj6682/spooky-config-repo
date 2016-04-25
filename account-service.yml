@@ -1,6 +1,6 @@
 account:
-  find: false
-  findAll: false
+  find: true
+  findAll: true
   findByOwner: false
   create: false
   delete: false

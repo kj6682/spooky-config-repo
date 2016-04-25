@@ -1,7 +1,7 @@
 account:
-  find: true
-  findAll: true
+  find: false
+  findAll: false
   findByOwner: false
-  create: true
-  delete: true
-  transfer: true
+  create: false
+  delete: false
+  transfer: false

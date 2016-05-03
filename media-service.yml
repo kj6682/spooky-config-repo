@@ -6,4 +6,3 @@ media:
   findByType: true
   create: true
   delete: true
-  transfer: true

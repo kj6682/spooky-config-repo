@@ -1,0 +1,8 @@
+media:
+  find: true
+  findAll: true
+  findByTitle: false
+  findByAuthor: false
+  findByType: false
+  create: true
+  delete: true

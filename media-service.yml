@@ -3,6 +3,6 @@ media:
   findAll: true
   findByTitle: true
   findByAuthor: true
-  findByType: false
+  findByType: true
   create: true
   delete: true
